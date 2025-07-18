@@ -1,4 +1,4 @@
-### 4. 🌍 Environmental Impact Dashboard
+### 🌍 Environmental Impact Dashboard
 
 > **Dashboard Insight:**  
 This dashboard focuses on analyzing global environmental health and trends.
